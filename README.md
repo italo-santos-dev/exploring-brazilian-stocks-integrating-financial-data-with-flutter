@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.md">US</a> - <a href="README.pt.md">BR</a>
+</p>
+
 # Stock Listing App
 
 This is an example of a Flutter app that lists stock information obtained from a public API. The app displays the stock symbol, the sector it belongs to, and the latest price.
